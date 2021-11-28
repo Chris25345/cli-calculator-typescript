@@ -1,4 +1,4 @@
-Простой CLI калькулятор на Typescript
+<img src="calculator/calculator.png" width="300" height="350">
 
+## Простой CLI калькулятор на Typescript
 
-![](calculator/calculator.png)
